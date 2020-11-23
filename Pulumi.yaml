@@ -1,0 +1,4 @@
+name: power-dialer-with-async-amd
+runtime: nodejs
+description: Power Dialer using Twilio and Async AMD
+main: src/resources
